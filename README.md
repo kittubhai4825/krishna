@@ -1,0 +1,2 @@
+# krishna
+Windows powershell scripting
